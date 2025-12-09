@@ -91,7 +91,7 @@ Auxilia na análise de desempenho financeiro e no acompanhamento de resultados a
 
 ### 4. Dashboard de Recursos Humanos (RH)
 
-(https://chatgpt.com/backend-api/estuary/content?id=file_000000003a40720eb1acd9bbb393260c&ts=490357&p=fs&cid=1&sig=4a27646ecae9afd477ebac52d01dc74db49f97db7d8bb8305388a62f11e18365&v=0)
+<img width="1162" height="635" alt="image" src="https://github.com/user-attachments/assets/ac9996a0-3ab1-4592-a6da-5d716c0ba496" />
 
 **Arquivo:** [`Dash_RH.pbix`](./Dash_RH.pbix)  
 
