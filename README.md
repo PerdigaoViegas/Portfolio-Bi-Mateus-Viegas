@@ -37,7 +37,8 @@ Cada imagem representa a tela principal do relatório no Power BI.
 
 ### 1. Dashboard Comercial
 
-![Dashboard Comercial](img/comercial.jpg)
+[<img width="1263" height="708" alt="image" src="https://github.com/user-attachments/assets/d3ae0e98-4e29-4583-b191-1b5a7697cf98" />](https://chatgpt.com/backend-api/estuary/content?id=file_00000000683071f5ad6dc9eb05a5447b&ts=490357&p=fs&cid=1&sig=efce3758f6a225de870023fd097b301e40c49941cc25696b0cf823f0ae21eec8&v=0)
+
 
 **Arquivo:** [`Dash_comercial.pbix`](./Dash_comercial.pbix)  
 
@@ -55,7 +56,8 @@ Esse painel ajuda a identificar produtos e clientes de maior relevância, acompa
 
 ### 2. Dashboard de Compras
 
-![Dashboard de Compras](img/compras.jpg)
+<img width="1298" height="726" alt="image" src="https://github.com/user-attachments/assets/847fe602-470a-4e8b-a0ce-535776c8c771" />
+
 
 **Arquivo:** [`Dash_Compras.pbix`](./Dash_Compras.pbix)  
 
@@ -72,7 +74,7 @@ O objetivo é apoiar negociações, reduzir custos e identificar concentração 
 
 ### 3. Dashboard Financeiro
 
-![Dashboard Financeiro](img/financeiro.jpg)
+<img width="1322" height="738" alt="image" src="https://github.com/user-attachments/assets/c4e705b9-ef7a-4c84-9229-c3360080bed9" />
 
 **Arquivo:** [`Dash_Financeiro.pbix`](./Dash_Financeiro.pbix)  
 
@@ -89,7 +91,7 @@ Auxilia na análise de desempenho financeiro e no acompanhamento de resultados a
 
 ### 4. Dashboard de Recursos Humanos (RH)
 
-![Dashboard de Recursos Humanos](img/rh.jpg)
+(https://chatgpt.com/backend-api/estuary/content?id=file_000000003a40720eb1acd9bbb393260c&ts=490357&p=fs&cid=1&sig=4a27646ecae9afd477ebac52d01dc74db49f97db7d8bb8305388a62f11e18365&v=0)
 
 **Arquivo:** [`Dash_RH.pbix`](./Dash_RH.pbix)  
 
@@ -128,7 +130,8 @@ Se você estiver acessando via GitHub Pages ou outro site de portfólio, este re
 Para mais informações ou oportunidades na área de BI:
 
 - **Nome:** Mateus Viegas  
-- **GitHub:** https://github.com/PerdigaoViegas  
-- **E-mail:** _(adicionar e-mail profissional aqui)_  
+- **GitHub:** https://github.com/PerdigaoViegas
+- **LinkedIn** www.linkedin.com/in/mates-viegas-eng-meta
+- **E-mail:** mateuspviegas@gmai.com  
 
 Obrigado pela visita! 🚀
