@@ -71,6 +71,6 @@ Para mais informações ou oportunidades na área de BI:
 
 - **Nome:** Mateus Viegas  
 - **GitHub:** https://github.com/PerdigaoViegas  
-- **E-mail:** _(adicionar e-mail profissional aqui)_
+- **E-mail:** mateuspviegas@gmal.com
 
 Obrigado pela visita! 🚀
