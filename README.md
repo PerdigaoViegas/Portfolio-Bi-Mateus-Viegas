@@ -18,50 +18,108 @@ Sou o **Mateus Viegas**, profissional em desenvolvimento na área de **Análise 
 
 ## 🛠️ Tecnologias e habilidades
 
-- **Power BI** (modelagem, medidas, visualização)
-- **DAX** (medidas, colunas calculadas, KPIs)
+- **Power BI Desktop**
+- **DAX** (medidas, colunas calculadas e KPIs)
 - Limpeza e transformação de dados
-- Conceitos de **ETL**, indicadores e storytelling com dados
+- Modelagem em esquema estrela (fato/dimensão)
+- Storytelling com dados e visão de negócio
 
 ---
 
-## 📊 Projetos deste portfólio
+## 📊 Galeria de Dashboards
+
+Abaixo estão alguns exemplos dos dashboards desenvolvidos.  
+Cada imagem representa a tela principal do relatório no Power BI.
+
+> 🔎 **Dica:** se os nomes dos arquivos forem diferentes dos abaixo, é só ajustar o caminho da imagem.
+
+---
 
 ### 1. Dashboard Comercial
-Arquivo: [`Dash_comercial.pbix`](./Dash_comercial.pbix)  
 
-Dashboard focado em **acompanhamento de vendas**, com visão por período, produto, cliente e equipe comercial.
+![Dashboard Comercial](img/comercial.jpg)
+
+**Arquivo:** [`Dash_comercial.pbix`](./Dash_comercial.pbix)  
+
+Dashboard focado em **acompanhamento de vendas**, com visão por:
+
+- Período (mês/ano)
+- Produto e categoria
+- Clientes
+- Equipe/vendedores
+- Metas x realizado
+
+Esse painel ajuda a identificar produtos e clientes de maior relevância, acompanhar o atingimento de metas e analisar o desempenho da área comercial.
 
 ---
 
 ### 2. Dashboard de Compras
-Arquivo: [`Dash_Compras.pbix`](./Dash_Compras.pbix)  
 
-Dashboard voltado para **gestão de compras e suprimentos**, com análise de fornecedores, custos e categorias.
+![Dashboard de Compras](img/compras.jpg)
+
+**Arquivo:** [`Dash_Compras.pbix`](./Dash_Compras.pbix)  
+
+Dashboard voltado para **gestão de compras e suprimentos**, permitindo:
+
+- Visualizar volume de compras por período  
+- Analisar gastos por fornecedor  
+- Avaliar categorias de produtos  
+- Comparar custos entre períodos  
+
+O objetivo é apoiar negociações, reduzir custos e identificar concentração de compras em determinados fornecedores.
 
 ---
 
 ### 3. Dashboard Financeiro
-Arquivo: [`Dash_Financeiro.pbix`](./Dash_Financeiro.pbix)  
 
-Visão consolidada da **saúde financeira** da organização, com receitas, despesas, fluxo de caixa e resultados.
+![Dashboard Financeiro](img/financeiro.jpg)
+
+**Arquivo:** [`Dash_Financeiro.pbix`](./Dash_Financeiro.pbix)  
+
+Painel com visão da **saúde financeira** da organização, incluindo:
+
+- Receitas x despesas por período  
+- Resultado (superávit/déficit)  
+- Composição de despesas por categoria  
+- Comportamento de fluxo de caixa  
+
+Auxilia na análise de desempenho financeiro e no acompanhamento de resultados ao longo do tempo.
 
 ---
 
 ### 4. Dashboard de Recursos Humanos (RH)
-Arquivo: [`Dash_RH.pbix`](./Dash_RH.pbix)  
 
-Dashboard para **gestão de pessoas**, acompanhando quadro de colaboradores, movimentações e indicadores de RH.
+![Dashboard de Recursos Humanos](img/rh.jpg)
+
+**Arquivo:** [`Dash_RH.pbix`](./Dash_RH.pbix)  
+
+Dashboard voltado para **gestão de pessoas**, com foco em:
+
+- Quantitativo de colaboradores por área/cargo  
+- Admissões e desligamentos por período  
+- Indicadores de rotatividade (turnover)  
+- Absenteísmo (faltas, afastamentos)  
+
+Apoia o acompanhamento de indicadores de RH e o planejamento de ações junto às equipes.
 
 ---
 
-## 📥 Como acessar os arquivos
+## 📥 Como acessar os arquivos (.PBIX)
 
 Para visualizar os dashboards:
 
-1. Clique no arquivo `.pbix` desejado
-2. Faça o download
-3. Abra no **Microsoft Power BI Desktop**
+1. Clique no arquivo `.pbix` desejado (ex.: `Dash_comercial.pbix`);
+2. Na página do arquivo, use a opção **Download raw**;
+3. Abra o arquivo no **Microsoft Power BI Desktop**.
+
+---
+
+## 🌐 Repositório e portfólio
+
+- **Repositório do portfólio:**  
+  [`Portfolio-Bi-Mateus-Viegas`](https://github.com/PerdigaoViegas/Portfolio-Bi-Mateus-Viegas)
+
+Se você estiver acessando via GitHub Pages ou outro site de portfólio, este repositório funciona como base técnica para os arquivos e prints dos dashboards.
 
 ---
 
@@ -71,6 +129,6 @@ Para mais informações ou oportunidades na área de BI:
 
 - **Nome:** Mateus Viegas  
 - **GitHub:** https://github.com/PerdigaoViegas  
-- **E-mail:** mateuspviegas@gmal.com
+- **E-mail:** _(adicionar e-mail profissional aqui)_  
 
 Obrigado pela visita! 🚀
